@@ -10,7 +10,6 @@ I enjoy building practical projects, working with APIs and databases, and learni
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently building an **AI-powered IDP Recommendation System**
 * ⚡ Working with **Python, FastAPI and PostgreSQL**
 * 🧠 Practicing **Data Structures & Algorithms in C++**
 * 🤖 Exploring **Generative AI and AI-powered applications**

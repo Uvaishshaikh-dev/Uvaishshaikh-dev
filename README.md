@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Uvaish Shaikh
 
-### ⚡ Backend Developer | Python & FastAPI | DSA in C++ | Building AI Projects
+### ⚡ Backend Developer | Python & FastAPI | AI Applications | DSA in C++
 
 I'm a B.Tech CSE (AI) student interested in **backend development, AI applications, and problem solving**.
 
@@ -13,8 +13,8 @@ I enjoy building practical projects, working with APIs and databases, and learni
 * ⚡ Working with **Python, FastAPI and PostgreSQL**
 * 🧠 Practicing **Data Structures & Algorithms in C++**
 * 🤖 Exploring **Generative AI and AI-powered applications**
-* 🚀 Built an **AI Interview Simulator** using C++ and Google Gemini API
-* ☕ Built a **Java Event Management System** with MySQL and JDBC
+* 🚀 Building full-stack and backend systems using **Python, FastAPI, React and PostgreSQL**
+* 🌐 Working with **REST APIs, authentication and databases**
 * 📚 Always learning and improving my backend development skills
 
 ---
@@ -24,8 +24,9 @@ I enjoy building practical projects, working with APIs and databases, and learni
 | 🤖 AI & Generative AI            | ⚡ Backend Development | 🧩 DSA          |
 | -------------------------------- | --------------------- | --------------- |
 | Building AI-powered applications | Python & FastAPI      | C++             |
-| Exploring AI APIs                | REST APIs & Databases | LeetCode        |
-| Learning by building projects    | PostgreSQL            | Problem Solving |
+| Exploring AI APIs & local AI     | REST APIs & Databases | LeetCode        |
+| AI-powered systems               | PostgreSQL            | Problem Solving |
+| Learning by building projects    | Authentication & RBAC | Algorithms      |
 
 ---
 
@@ -33,41 +34,68 @@ I enjoy building practical projects, working with APIs and databases, and learni
 
 ### 💻 Languages
 
-`C++` `Python` `Java` `SQL`
+`C++` `Python` `SQL`
 
 ### ⚙️ Backend
 
-`FastAPI` `REST APIs`
+`FastAPI` `REST APIs` `SQLAlchemy` `Pydantic` `JWT`
 
 ### 🗄️ Databases
 
-`MySQL` `PostgreSQL`
+`PostgreSQL` `MySQL`
 
 ### 🤖 AI
 
-`Generative AI` `Google Gemini API` `AI Applications`
+`Generative AI` `Ollama` `Llama 3.2` `Google Gemini API` `AI Applications`
 
 ### 🔧 Tools
 
-`Git` `GitHub` `Postman` `VS Code` `IntelliJ IDEA`
+`Git` `GitHub` `Postman` `VS Code` `pgAdmin`
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🇮🇳 Sahyog Jharkhand
+
+**AI-Powered Societal Problem Solving & Collaboration Platform**
+
+An end-to-end platform connecting **citizens, universities, faculty, students, scientists, industry and government** to turn real-world societal problems into measurable solutions.
+
+**Key Features:**
+
+* 🤖 AI-powered problem analysis and prioritization
+* 🏫 University and faculty matching
+* 🔬 Scientist review and expert validation
+* 👥 Community impact validation
+* 👨‍🎓 Student project management
+* 🔄 Complete project lifecycle tracking
+* 🏭 Industry collaboration
+* 📊 Impact measurement
+* 🏛️ Government monitoring dashboard
+* 🌐 English & Hindi support
+* 🗣️ Voice-based problem reporting
+* 💬 Sahyog AI chatbot
+* 📱 Citizen notification workflow
+* 🔐 JWT authentication & role-based access control
+
+**Tech:** `React` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Ollama` `Llama 3.2` `JWT` `Tailwind CSS`
+
+---
+
+### 💳 RecoverAI
+
+An autonomous AI-powered revenue recovery system designed to help businesses recover failed payments and improve payment recovery workflows.
+
+**Tech:** `Python` `AI` `Backend Development`
+
+---
 
 ### 🤖 AI Interview Simulator
 
 An AI-powered technical interview simulator that helps users practice interviews and receive AI-generated feedback.
 
 **Tech:** `C++` `WinHTTP` `Google Gemini API`
-
----
-
-### 📅 Event Management System
-
-A Java-based event management application for handling customers, event bookings, payments and database storage.
-
-**Tech:** `Java` `Swing` `MySQL` `JDBC` `Servlets`
 
 ---
 
@@ -97,7 +125,7 @@ APIs & Databases
         ↓
 AI-powered Applications
         ↓
-Building Better Projects
+Building Real-world Systems
         ↓
 Becoming a Stronger Developer
 ```

@@ -90,15 +90,6 @@ An AI-powered system designed to create personalized **Individual Development Pl
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uvaishshaikh-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uvaishshaikh-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🧩 What I'm Working Towards
 
 ```text

@@ -62,23 +62,6 @@ I enjoy building practical projects, working with APIs and databases, and learni
 
 An end-to-end platform connecting **citizens, universities, faculty, students, scientists, industry and government** to turn real-world societal problems into measurable solutions.
 
-**Key Features:**
-
-* 🤖 AI-powered problem analysis and prioritization
-* 🏫 University and faculty matching
-* 🔬 Scientist review and expert validation
-* 👥 Community impact validation
-* 👨‍🎓 Student project management
-* 🔄 Complete project lifecycle tracking
-* 🏭 Industry collaboration
-* 📊 Impact measurement
-* 🏛️ Government monitoring dashboard
-* 🌐 English & Hindi support
-* 🗣️ Voice-based problem reporting
-* 💬 Sahyog AI chatbot
-* 📱 Citizen notification workflow
-* 🔐 JWT authentication & role-based access control
-
 **Tech:** `React` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Ollama` `Llama 3.2` `JWT` `Tailwind CSS`
 
 ---
